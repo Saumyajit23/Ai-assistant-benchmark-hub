@@ -4,6 +4,8 @@ A production-ready evaluation workbench and interactive workspace comparing a ce
 
 ---
 
+WEBSITE = https://huggingface.co/spaces/Saumyajit23/ai-assistant-benchmark-hub
+
 ## 🏗️ Core Architecture Overview
 
 The system is separated into three highly decoupled, modular layers to enforce clean separation of concerns:
